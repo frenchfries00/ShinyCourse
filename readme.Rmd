@@ -5,9 +5,9 @@ date: "21.06.2015"
 output: html_document
 ---
 
-This is a trivial Shiny application which is a part of the course Project of the Developping Data Products course at Coursera. The user is offered to input her/his weight in kilograms, $w$, and height in meters, $h$, and gets her/his body mass index, calculated by the formula
+This is a trivial Shiny application which is a part of the course Project of the Developping Data Products course at Coursera. The user is offered to input her/his weight in kilograms, w, and height in meters, h, and gets her/his body mass index, calculated by the formula
 
-$$BMI=w/h^2.$$
+BMI=w/h^2.
 
 The BMI is normally used to estimate if a person is underweight, overweight or of normal weight. Note that this measure should be used with care! For example, usually the weight is considered as normal if the BMI is between 18.5 and 24.9. However, sportsmen can have a larger BMI and not be overweight since muscles are relatively heavy.
 
